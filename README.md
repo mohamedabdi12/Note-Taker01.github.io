@@ -8,6 +8,9 @@
 
 * DELETE /api/notes/:id receives a query paramter containing the id of a note to delete when the trash can next to the corresponding title is clicked. The note is deleted from the list and from the db.json file.
 
+# link
+https://notetaker-01.herokuapp.com/
+
 # IMAGE 
 <img width="1440" alt="Screenshot 2020-07-16 at 2 53 29 PM" src="https://user-images.githubusercontent.com/63940676/87726710-6d2cae80-c774-11ea-9ed0-020afb47ebd2.png">
 
